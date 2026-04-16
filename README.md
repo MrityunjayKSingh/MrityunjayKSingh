@@ -49,22 +49,24 @@ A full-featured Customer Relationship Management system
 
 ---
 
-### 📌 REST API (Node.js + Express)
+### 📌 Subscription Tracker REST API (Node.js + Express)
 
 Production-ready backend API
 
 * JWT authentication
 * Secure routes & middleware
 * Pagination & validation
+* Rate Limiting
+* API Versioning
 
 ---
 
-### 📌 E-commerce Backend
+### 📌 E-commerce Backend & Frontend 
 
 Scalable backend system for e-commerce
 
-* Order & inventory management
-* Payment integration (mock/real)
+* Category & inventory management
+* Scalable REST API 
 * Optimized database queries
 
 ---
