@@ -61,7 +61,7 @@ Production-ready backend API
 
 ---
 
-### 📌 E-commerce Backend & Frontend 
+### 📌 Bloomshine E-commerce Backend & Frontend 
 
 Scalable backend system for e-commerce
 
