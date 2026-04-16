@@ -1,16 +1,94 @@
-## Hi there 👋
+# Hi, I'm Mrityunjay Singh 👋
 
-<!--
-**MrityunjayKSingh/MrityunjayKSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Backend Developer | PHP | Node.js | Laravel | System Design
 
-Here are some ideas to get you started:
+I build scalable backend systems, REST APIs, and production-ready applications with a focus on performance, clean architecture, and real-world problem solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me
+
+* 💼 Backend Developer with hands-on experience in PHP & Node.js
+* ⚙️ Strong in building RESTful APIs and scalable systems
+* 🧠 Interested in system design, performance optimization & clean code
+* 🔄 Currently improving skills in modern backend & full-stack development
+
+---
+
+## 🚀 Tech Stack
+
+### 💻 Backend
+
+* PHP (Laravel, CodeIgniter, Yii)
+* Node.js (Express, NestJS)
+
+### 🗄️ Database
+
+* MySQL
+* MongoDB
+
+### ⚡ Tools & Technologies
+
+* REST APIs
+* JWT Authentication
+* Git & GitHub
+* Linux
+* Postman
+
+---
+
+## 🔥 Featured Projects
+
+### 📌 CRM System (Laravel)
+
+A full-featured Customer Relationship Management system
+
+* Role-based authentication
+* Lead & customer management
+* API-driven architecture
+
+---
+
+### 📌 REST API (Node.js + Express)
+
+Production-ready backend API
+
+* JWT authentication
+* Secure routes & middleware
+* Pagination & validation
+
+---
+
+### 📌 E-commerce Backend
+
+Scalable backend system for e-commerce
+
+* Order & inventory management
+* Payment integration (mock/real)
+* Optimized database queries
+
+---
+
+## 📊 What I Focus On
+
+* Writing clean, maintainable code
+* Designing scalable backend architecture
+* Building real-world production-ready systems
+* Optimizing performance & database queries
+
+---
+
+## 📈 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=MrityunjayKSingh\&show_icons=true\&theme=radical)
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/mrityunjay-singh-2199481b/
+* 📧 Email: mrityunjay.webmaster@gmail.com
+
+---
+
+⭐️ *I am actively looking for backend developer opportunities and open to collaborations.*
