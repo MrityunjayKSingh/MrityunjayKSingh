@@ -1,45 +1,24 @@
-# Hi, I'm Mrityunjay Singh 👋
+Hi, I'm Mrityunjay Singh 👋
 
-🚀 Backend Developer | PHP | Node.js | Laravel | System Design
+Senior Full Stack Engineer with 13+ years of experience in building scalable backend systems and modern web applications.
 
-I build scalable backend systems, REST APIs, and production-ready applications with a focus on performance, clean architecture, and real-world problem solving.
+**🚀 Tech Stack**
+Backend: Node.js (Express), PHP (Laravel, Yii, CodeIgniter)
+Frontend: React.js, JavaScript
+Databases: MySQL, MongoDB
+Cloud: AWS (EC2, S3, RDS)
+Architecture: Microservices, REST APIs, Scalable Systems
 
----
+**💡 What I'm Working On**
 
-## 🧑‍💻 About Me
-
-* 💼 Backend Developer with hands-on experience in PHP & Node.js
-* ⚙️ Strong in building RESTful APIs and scalable systems
-* 🧠 Interested in system design, performance optimization & clean code
-* 🔄 Currently improving skills in modern backend & full-stack development
-
----
-
-## 🚀 Tech Stack
-
-### 💻 Backend
-
-* PHP (Laravel, CodeIgniter, Yii)
-* Node.js (Express, NestJS)
-
-### 🗄️ Database
-
-* MySQL
-* MongoDB
-
-### ⚡ Tools & Technologies
-
-* REST APIs
-* JWT Authentication
-* Git & GitHub
-* Linux
-* Postman
-
+Building Node.js APIs and microservices
+Developing React-based dashboards
+Migrating legacy PHP systems to modern Node.js architecture
 ---
 
 ## 🔥 Featured Projects
 
-### 📌 CRM System (Laravel)
+### 📌 CRM System (Laravel,Node ,PHP & React)
 
 A full-featured Customer Relationship Management system
 
