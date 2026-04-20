@@ -1,4 +1,4 @@
-Hi, I'm Mrityunjay Singh 👋
+**Hi, I'm Mrityunjay Singh 👋**
 
 Senior Full Stack Engineer with 13+ years of experience in building scalable backend systems and modern web applications.
 
@@ -10,10 +10,10 @@ Cloud: AWS (EC2, S3, RDS)
 Architecture: Microservices, REST APIs, Scalable Systems
 
 **💡 What I'm Working On**
-
 Building Node.js APIs and microservices
 Developing React-based dashboards
 Migrating legacy PHP systems to modern Node.js architecture
+
 ---
 
 ## 🔥 Featured Projects
