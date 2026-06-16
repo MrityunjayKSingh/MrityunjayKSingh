@@ -157,10 +157,10 @@ E-commerce platform focused on fashion jewellery and online shopping experiences
 * Order Management
 * Responsive Design
 
-**Tech:** PHP, Laravel, MySQL
+**Tech:** Laravel, MySQL,React
 
-🔗 Repository:
-https://github.com/MrityunjayKSingh/bloomshine-fashion-jewellery
+🔗 Link:
+[https://github.com/MrityunjayKSingh/bloomshine-fashion-jewellery](https://bloomshinefashion.com/)
 
 ---
 
